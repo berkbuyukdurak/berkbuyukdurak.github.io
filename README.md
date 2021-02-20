@@ -5,8 +5,8 @@ You can observe our term project progress from this website.
 # Team Members
 
 - Berk Büyükdurak | 21301089
-- İlknur Baş |
-- Kadir Mert Laleci |
+- İlknur Baş | 21601847
+- Kadir Mert Laleci | 21601960
 - Alperen Koca |
 
 # Project Deliverables
