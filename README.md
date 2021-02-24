@@ -7,7 +7,7 @@ You can observe our term project progress from this website.
 - Berk Büyükdurak | 21301089
 - İlknur Baş | 21601847
 - Kadir Mert Laleci | 21601960
-- Alperen Koca |
+- Alperen Koca | 21502810
 
 # Project Deliverables
 
