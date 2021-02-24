@@ -11,4 +11,4 @@ You can observe our term project progress from this website.
 
 # Project Deliverables
 
-1. [Project Proposal Report](https://docs.google.com/document/d/1J3wmmDpcmruLd17NlaF8E9yXkeshnQaLgcTb1UACC-E/edit?usp=sharing)
+1. [Project Proposal Report](https://drive.google.com/file/d/1X3f_-GPi-yryYjj_0knFnUO8GzCdUHwu/view?usp=sharing)
